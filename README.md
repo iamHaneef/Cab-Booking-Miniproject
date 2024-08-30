@@ -1,4 +1,7 @@
 # Cab-Booking-Miniproject
 This Miniproject include the basic Booking features of a Cab in Java. It involves Cabs Details , Cabs Booking feature , Cabs Main Execution. Happy Coding !
 
-![cab1](https://github.com/user-attachments/assets/b50f1358-6435-4f47-afac-6512e92f8d2c)
+![cab](https://github.com/user-attachments/assets/2a6fbed7-038c-4d06-b18d-6a1cd9ab834b)
+
+![cab2](https://github.com/user-attachments/assets/ac41cc12-4e21-43ec-a43e-ecd9899eaeb1)
+
