@@ -1,7 +1,22 @@
-# Cab-Booking-Miniproject
-This Miniproject include the basic Booking features of a Cab in Java. It involves Cabs Details , Cabs Booking feature , Cabs Main Execution. Happy Coding !
+# Transport Booking System
 
-![cab](https://github.com/user-attachments/assets/2a6fbed7-038c-4d06-b18d-6a1cd9ab834b)
+A simple Java-based mini project demonstrating cab and bus booking using basic object-oriented concepts.
 
-![cab2](https://github.com/user-attachments/assets/ac41cc12-4e21-43ec-a43e-ecd9899eaeb1)
+---
 
+## Project Structure
+
+```bash
+transport-booking-system/
+│
+├── cab/
+│   ├── Cab.java
+│   ├── CabBookingService.java
+│   └── CabMain.java
+│
+├── bus/
+│   ├── Bus.java
+│   ├── BusBookingService.java
+│   └── BusMain.java
+│
+└── README.md
